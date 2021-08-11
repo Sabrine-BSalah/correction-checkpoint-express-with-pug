@@ -1,0 +1,48 @@
+.menu {
+  margin: 0 50px;
+  padding: 20px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  background-color: #343a40;
+  border-radius: 40px;
+}
+
+.menu li {
+  color: white;
+  padding: 30px 50px;
+}
+
+li a {
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+  padding: 30px 0;
+}
+
+li a:hover {
+  color: #6ec8c7;
+}
+
+.title-page {
+  color: #343a40;
+  font-size: 30px;
+}
+
+p {
+  color: #343a40;
+  font-size: 20px;
+}
+
+.page-content {
+  margin: 50px;
+  padding: 20px 50px;
+  background-color: #6ec8c7;
+  border-radius: 50px;
+  height: auto;
+}
+
+.error-message {
+  color: white;
+  font-size: 30px;
+}
